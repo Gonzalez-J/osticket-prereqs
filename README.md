@@ -21,6 +21,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
+- Azure Virtual Machine
+- osTicket Installation files
+- Heidi SQL
+
+
+
 Welcome to my first tutorial!
 
 First we will have to create a Virtual machine using the Microsoft Azure portal. We will be using a VM which is a remote computer. We are using a VM in order to protect our physical machine just in case something breaks. We will create a resource group and title it "osTicket". Afterwards creating a VM with 2-4 CPUs. In this example we will be using 4 CPUs.
