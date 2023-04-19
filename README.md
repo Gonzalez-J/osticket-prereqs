@@ -21,12 +21,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
-Welcome to my first tutorial! First we will have to create a Virtual machine using the Microsoft Azure portal. We will be using a VM which is a remote computer. We are using a VM in order to protect our physical machine just in case something breaks. We will create a resource group and title it "osTicket". Afterwards create a VM with 2-4 CPUs. In this example we will be using 4 CPUs.
+Welcome to my first tutorial!
 
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+First we will have to create a Virtual machine using the Microsoft Azure portal. We will be using a VM which is a remote computer. We are using a VM in order to protect our physical machine just in case something breaks. We will create a resource group and title it "osTicket". Afterwards create a VM with 2-4 CPUs. In this example we will be using 4 CPUs.
+
+Enable Internet InformationServices (IIS)
+Install Web Platform Installer
+Install MySQL
+Set Up user name and Pass word
 
 <h2>Installation Steps</h2>
 
