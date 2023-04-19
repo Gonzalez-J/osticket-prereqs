@@ -26,19 +26,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - osTicket Installation files
 - Heidi SQL
 
-
+<h2>Installation Steps</h2>
 
 Welcome to my first tutorial!
 
 First we will have to create a Virtual machine using the Microsoft Azure portal. We will be using a VM which is a remote computer. We are using a VM in order to protect our physical machine just in case something breaks. We will create a resource group and title it "osTicket". Afterwards creating a VM with 2-4 CPUs. In this example we will be using 4 CPUs.
 
-2.Enable Internet InformationServices (IIS)
 
-3.Install Web Platform Installer
-
-4.Install MySQL
-
-4.Set Up user name and Pass word
 
 <h2>Installation Steps</h2>
 
