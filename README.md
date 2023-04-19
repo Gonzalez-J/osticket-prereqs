@@ -40,16 +40,10 @@ First we will have to create a Virtual machine using the Microsoft Azure portal.
 
 
 </p>
-<br />
-</p>
-<br />
-<p>
-<img src="![image](https://user-images.githubusercontent.com/127790791/233220923-f8c91447-44fe-41fb-8ab4-9ac911179998.png)
-"height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![image](https://user-images.githubusercontent.com/127790791/233221014-22c7cd36-5232-498e-ac78-f239e4c51da1.png)
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
