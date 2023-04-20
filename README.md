@@ -96,7 +96,7 @@ Open IIS Manager and restart the server. Once inside IIS manager go to Sites->De
 <p>
 Assign permissions to ost-config.php Disable inheritance->Removeall
 New Permissions->Everyone->all 
-  <p>
+<p>
 <img src="i.imgur.com/1nYaYGe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
