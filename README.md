@@ -104,7 +104,11 @@ New Permissions->Everyone->all
   
  
  To enable some extensions in IIS manager, go to Sites->Default->osTicket. Then double click on PHP manager and click on “Disable or enable an extension”. Enable “php_intl.dll” & “php_opcache.dll”. Then refresh the osTicket webserver and observe the changes. You should see that “Intl Extension” is now enabled.
- 
+<p>
+<img src="https://i.imgur.com/1H0NzDU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
  Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php
 Assign permissions to ost-config.php Disable inheritance->Remove all
 <p>
