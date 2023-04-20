@@ -36,6 +36,16 @@ First we will have to create a Virtual machine using the Microsoft Azure portal.
 
 <h2>Installation Steps</h2>
 
+Enable IIS (Internet Information Services)
+
+Install  Web Platform Installer
+
+Install MySQL
+
+Set up User Names and Password
+
+
+
 Next simply connect to your newly created VM using RDP using the public IPv4 address. If you are a Mac user you will have to download Microsoft RDP.
 
 
