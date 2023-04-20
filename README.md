@@ -107,8 +107,18 @@ New Permissions->Everyone->all
  
  Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php
 Assign permissions to ost-config.php Disable inheritance->Remove all
+<p>
+<img src="i.imgur.com/1nYaYGe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
+  
  
  After setting up osTicket in the browser (click continue), you can name the Helpdesk to your liking and select a default email that will receive emails from customers who submit tickets.
+  
+<p>
+<img src="i.imgur.com/1nYaYGe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
  
  Continue Setting up osticket in the browser MySQL Database: osTicket MySQL Username: root MySQL Password: Password1 Click “Install Now!” Congratulations, hopefully it is installed with no errors! Clean up Delete: C:\inetpub\wwwroot\osTicket\setup Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)
  
