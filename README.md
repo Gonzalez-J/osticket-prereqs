@@ -91,12 +91,13 @@ After installing Web Installer Platform, open it and install MySQL 5.5 from insi
 Open IIS Manager and restart the server. Once inside IIS manager go to Sites->Default->osTicket on the right, click "Browse*.80" from there your default browser should open osTicket webserver.
   
 <p>
-<img src="https://imgur.com/a/eM8BQA9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/APZgUTT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  
+Assign permissions to ost-config.php Disable inheritance->Removeall
+New Permissions->Everyone->all 
   <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="i.imgur.com/1nYaYGe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
