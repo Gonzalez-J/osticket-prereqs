@@ -33,7 +33,7 @@ Welcome to my first tutorial!
 First we will have to create a Virtual machine using the Microsoft Azure portal. We will be using a VM which is a remote computer. We are using a VM in order to protect our physical machine just in case something breaks. We will create a resource group and title it "osTicket". Afterwards creating a VM with 2-4 CPUs. In this example we will be using 4 CPUs.
 
 <p>
-<img src="![image](https://user-images.githubusercontent.com/127790791/233230165-5cf3e6d5-3583-4d5f-85e7-0ebc58791280.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DZyFdnX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
