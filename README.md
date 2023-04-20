@@ -58,8 +58,9 @@ Install  Web Platform Installer
 Install MySQL
 
 Set up User Name and Password
+
 <p>
-[<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>](https://imgur.com/a/MPl87pG)
+[<img src="https://imgur.com/a/MPl87pG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
