@@ -55,7 +55,7 @@ Install MySQL
 Set up User Name and Password
 
 <p>
-<img src="https://s.imgur.com/desktop-assets/desktop-assets/icon-imageUrl-copied.31b62975a126c3352bc757239bb298f9.svg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ERjyU6U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
