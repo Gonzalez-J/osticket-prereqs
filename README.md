@@ -62,8 +62,11 @@ Install  Web Platform Installer
 
 Install MySQL
 
-Set up User Names and Password
-
+Set up User Name and Password
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
 
 Next simply connect to your newly created VM using RDP using the public IPv4 address. If you are a Mac user you will have to download Microsoft RDP.
