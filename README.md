@@ -89,11 +89,9 @@ After installing Web Installer Platform, open it and install MySQL 5.5 from insi
  Download osTicket and extract it. Copy the “upload” folder into c:\inetpub\wwwroot. Then rename the folder to osTicket.
  
 Open IIS Manager and restart the server. Once inside IIS manager go to Sites->Default->osTicket on the right, click "Browse*.80" from there your default browser should open osTicket webserver.
-  <p>
-<img src="![image](https://user-images.githubusercontent.com/127790791/233251279-bc2163fe-0768-4d14-bc55-e226b075a05f.png)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+  
+
+
   
  
  To enable some extensions in IIS manager, go to Sites->Default->osTicket. Then double click on PHP manager and click on “Disable or enable an extension”. Enable “php_intl.dll” & “php_opcache.dll”. Then refresh the osTicket webserver and observe the changes. You should see that “Intl Extension” is now enabled.
