@@ -40,7 +40,7 @@ First we will have to create a Virtual machine using the Microsoft Azure portal.
 
  
 <p>
-<img src="https://imgur.com/GDj3o9X" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/NuvaxuZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   <p>
