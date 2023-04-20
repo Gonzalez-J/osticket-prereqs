@@ -38,7 +38,7 @@ First we will have to create a Virtual machine using the Microsoft Azure portal.
 
   Next simply connect to your newly created VM using RDP using the public IPv4 address. If you are a Mac user you will have to download Microsoft RDP.
 
-
+https://imgur.com/a/fI0gRXW
 
 
 
