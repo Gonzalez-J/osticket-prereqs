@@ -82,12 +82,27 @@ Now that you are connected to your VM you will have to enable IIS. Simply access
 </p>
 <p>
 
-Excellent. Now that you have enabled IIS we need to install Web Platform Installer. I have provided a link here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
-  That link will provide you with all of the material you need to download to get osTicket up and running. Simply click the link and install the Web Platform Installer
+Furthermore, Now that we have enabled IIS we need to install Web Platform Installer. Here is a link: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+This link will provide you with all of the material needed to download osTicket and get it up and running. Simply click the link and install the Web Platform Installer, 
 
-
+After installing Web Installer Platform, open it and install MySQL 5.5 from inside the application. Then install the x86 version of PHP up until 7.3. If you encounter any failed files such as C++ redistributable package as well as PHP 7.3.8 and PHP Manager for IIS, you can find those files with the install link.
 
 </p>
 <br /></p>
 <p>
+ Download osTicket and extract it. Copy the “upload” folder into c:\inetpub\wwwroot. Then rename the folder to osTicket.
+ 
+Open IIS Manager and restart the server. Once inside IIS manager go to Sites->Default->osTicket on the right, click "Browse*.80" from there your default browser should open osTicket webserver.
+ 
+ To enable some extensions in IIS manager, go to Sites->Default->osTicket. Then double click on PHP manager and click on “Disable or enable an extension”. Enable “php_intl.dll” & “php_opcache.dll”. Then refresh the osTicket webserver and observe the changes. You should see that “Intl Extension” is now enabled.
+ 
+ Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php
+Assign permissions to ost-config.php Disable inheritance->Remove all
+ 
+ After setting up osTicket in the browser (click continue), you can name the Helpdesk to your liking and select a default email that will receive emails from customers who submit tickets.
+ 
+ 
+ 
+ 
+ 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
