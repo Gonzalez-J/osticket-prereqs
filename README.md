@@ -63,7 +63,7 @@ Set up User Name and Password
 
 
 <p>
-<img src="https://imgur.com/LzWFrwz" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LzWFrwz.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Now that you are connected to your VM you will have to enable IIS. Simply access the control panel then select uninstall a program. Off to the left select "Turn windows features on/off". A list will appear then you will enable Internet Information Services.
 <p>
