@@ -39,10 +39,7 @@ Next simply connect to your newly created VM (Virtual Machine) using RDP (Remote
 <img src="https://i.imgur.com/5quNpxU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  <p>
-<img src="https://imgur.com/a/NuvaxuZ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+
 
 <h2>Installation Steps</h2>
 
