@@ -78,6 +78,10 @@ Now that you are connected to your VM you will have to enable IIS. Simply access
 
 Furthermore, Now that we have enabled IIS we need to install Web Platform Installer. Here is a link: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 This link will provide you with all of the material needed to download osTicket and get it up and running. Simply click the link and install the Web Platform Installer, 
+/p>
+<br /></p>
+<p>
+ Download osTicket and extract it. Copy the “upload” folder into c:\inetpub\wwwroot. Then rename the folder to osTicket.
 
 After installing Web Installer Platform, open it and install MySQL 5.5 from inside the application. Then install the x86 version of PHP up until 7.3. If you encounter any failed files such as C++ redistributable package as well as PHP 7.3.8 and PHP Manager for IIS, you can find those files with the install link.
 
