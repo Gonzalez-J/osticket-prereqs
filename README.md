@@ -35,7 +35,7 @@ First we will have to create a Virtual machine using the Microsoft Azure portal.
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DZyFdnX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Hj3yLIv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next simply connect to your newly created VM (Virtual Machine) using RDP (Remote Desktop Protocol) using the public IPv4 address. If you are a Mac user you will have to download Microsoft RDP.
