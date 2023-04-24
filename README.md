@@ -59,8 +59,6 @@ Set up User Name and Password
 </p>
 <p>
 
-<p> <h2>All Installation Files</h2>
-
 
 <p>
 <img src="https://i.imgur.com/LzWFrwz.png" width="80%" alt="Disk Sanitization Steps"/>
