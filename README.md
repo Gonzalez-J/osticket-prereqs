@@ -80,7 +80,7 @@ Furthermore, Now that we have enabled IIS we need to install Web Platform Instal
 This link will provide you with all of the material needed to download osTicket and get it up and running. Simply click the link and install the Web Platform Installer, 
   
   <p>
-<img src="https://i.imgur.com/APZgUTT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/X6ZaMgj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 /p>
