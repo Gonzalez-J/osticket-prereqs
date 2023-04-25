@@ -62,26 +62,7 @@ Install  Web Platform Installer, Once you have installed Web Installer Platform 
 </p>
 <p>
  
-Install MySQL
-<p>
-<img src="https://i.imgur.com/W9028Q0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
-Set up User Name and Password
-
-<p>
-<img src="https://i.imgur.com/e7wfc0N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-
-<p>
-<img src="https://i.imgur.com/LzWFrwz.png" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
- 
- After setting up osTicket in the browser (click continue), you can name the Helpdesk to your liking and select a default email that will receive emails from customers who submit tickets.
   
 <p>
 <img src="i.imgur.com/1nYaYGe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
