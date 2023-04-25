@@ -50,6 +50,8 @@ Next simply connect to your newly created VM (Virtual Machine) using RDP (Remote
 Enable IIS (Internet Information Services) in Windows with CGI
 
 World wide web services,  Application,  Development then  Features CGI 
+
+Now that you are connected to your VM you will have to enable IIS. Simply access the control panel then select uninstall a program. Off to the left select "Turn windows features on/off". A list will appear then you will enable Internet Information Services.
 <p>
 <img src="https://i.imgur.com/fEpRYpq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
