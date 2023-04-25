@@ -51,7 +51,7 @@ Enable IIS (Internet Information Services) in Windows with CGI
 
 World wide web services,  Application,  Development then  Features CGI 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fEpRYpq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install  Web Platform Installer
