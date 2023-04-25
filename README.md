@@ -79,56 +79,7 @@ Set up User Name and Password
 <p>
 <img src="https://i.imgur.com/LzWFrwz.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Now that you are connected to your VM you will have to enable IIS. Simply access the control panel then select uninstall a program. Off to the left select "Turn windows features on/off". A list will appear then you will enable Internet Information Services.
 
-
-Furthermore, Now that we have enabled IIS we need to install Web Platform Installer. Here is a link: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
-This link will provide you with all of the material needed to download osTicket and get it up and running. Simply click the link and install the Web Platform Installer, 
-  
-  <p>
-<img src="https://i.imgur.com/X6ZaMgj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-/p>
-<br /></p>
-<p>
- Download osTicket and extract it. Copy the “upload” folder into c:\inetpub\wwwroot. Then rename the folder to osTicket.
-
-After installing Web Installer Platform, open it and install MySQL 5.5 from inside the application. Then install the x86 version of PHP up until 7.3. If you encounter any failed files such as C++ redistributable package as well as PHP 7.3.8 and PHP Manager for IIS, you can find those files with the install link.
-
-</p>
-<br /></p>
-<p>
- Download osTicket and extract it. Copy the “upload” folder into c:\inetpub\wwwroot. Then rename the folder to osTicket.
- 
-Open IIS Manager and restart the server. Once inside IIS manager go to Sites->Default->osTicket on the right, click "Browse*.80" from there your default browser should open osTicket webserver.
-  
-<p>
-<img src="https://i.imgur.com/APZgUTT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Assign permissions to ost-config.php Disable inheritance->Removeall
-New Permissions->Everyone->all 
-<p>
-<img src="i.imgur.com/1nYaYGe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-  
- 
- To enable some extensions in IIS manager, go to Sites->Default->osTicket. Then double click on PHP manager and click on “Disable or enable an extension”. Enable “php_intl.dll” & “php_opcache.dll”. Then refresh the osTicket webserver and observe the changes. You should see that “Intl Extension” is now enabled.
-<p>
-<img src="https://i.imgur.com/1H0NzDU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
- Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php
-Assign permissions to ost-config.php Disable inheritance->Remove all
-<p>
-<img src="i.imgur.com/1nYaYGe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>  
-  
  
  After setting up osTicket in the browser (click continue), you can name the Helpdesk to your liking and select a default email that will receive emails from customers who submit tickets.
   
