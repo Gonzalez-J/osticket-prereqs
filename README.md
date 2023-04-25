@@ -53,8 +53,16 @@ Enable IIS (Internet Information Services)
 </p>
 <p>
 Install  Web Platform Installer
+  <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
 Install MySQL
+  <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
 Set up User Name and Password
 
