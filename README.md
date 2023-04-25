@@ -68,12 +68,6 @@ Install MySQL
 </p>
 <p>
 
-<p>
-<p>
-<img src="https://imgur.com/a/rYhYvB9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
 Set up User Name and Password
 
 <p>
