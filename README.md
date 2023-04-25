@@ -61,8 +61,8 @@ Install  Web Platform Installer
 <p>
 
 Install MySQL
-  <p>
-<img src="https://imgur.com/a/ygbtYsn" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img src="https://imgur.com/a/rYhYvB9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
