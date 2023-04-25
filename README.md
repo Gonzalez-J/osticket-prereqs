@@ -56,13 +56,13 @@ World wide web services,  Application,  Development then  Features CGI
 <p>
 Install  Web Platform Installer
   <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 Install MySQL
   <p>
-<img src="https://imgur.com/TeT02e8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/ygbtYsn" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
