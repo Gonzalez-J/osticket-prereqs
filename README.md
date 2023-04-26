@@ -32,7 +32,7 @@ First we will have to create a VM (Virtual machine) using the Microsoft Azure po
 Next simply connect to your newly created VM (Virtual Machine) using RDP (Remote Desktop Protocol) using the public IPv4 address. If you are a Mac user you will have to download Microsoft RDP from the App Store.
 
 <p>
-<img src="https://i.imgur.com/fzpK4mR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fzpK4mR.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
