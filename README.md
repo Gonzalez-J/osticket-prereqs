@@ -46,11 +46,9 @@ This link will provide you with all of the material needed to download osTicket 
 </p>
 <br />
 <p>
-
 <p>
 </p>
 <p>
-
 <br />
 </p>
 <p>
@@ -89,7 +87,7 @@ Then double click on PHP manager. Click on "Disable or enable an extension" Enab
 </p>
 <p>
 Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php
-Assign permissions to ost-config.php Disable inheritance->Removeall
+Assign permissions to ost-config.php Disable inheritance->Remove all
 New Permissions->Everyone->all
 </p>
 <img src="https://i.imgur.com/1nYaYGe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
