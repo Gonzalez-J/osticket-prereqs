@@ -37,7 +37,7 @@ Next simply connect to your newly created VM (Virtual Machine) using RDP (Remote
 <p>
  
 <p>
-<img src="https://i.imgur.com/1Udxeen.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qtEnuWu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Furthermore, Now that we have enabled IIS we need to install Web Platform Installer. Here is a link: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
