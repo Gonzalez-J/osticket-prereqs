@@ -46,12 +46,6 @@ This link will provide you with all of the material needed to download osTicket 
 </p>
 <br />
 <p>
-</p>
-<p>Next simply connect to your newly created VM using RDP using the public IPv4 address. If you are a Mac user you will have to download Microsoft RDP. 
-</p>
-<img src="https://i.imgur.com/uLVKzxS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
 
 <p>
 </p>
