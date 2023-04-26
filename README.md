@@ -50,10 +50,7 @@ This link will provide you with all of the material needed to download osTicket 
 <p>
 </p>
 <p>
-Alright, now that you are connected to your VM you will have to enable IIS. Simply access the control panel then select uninstall a program. Off to the left select "Turn windows features on or off". A list will appear then you will enable Internet Information Services.
-</p>  
-<img src="https://i.imgur.com/qtEnuWu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <br />
 </p>
 <p>
