@@ -52,7 +52,6 @@ This link will provide you with all of the material needed to download osTicket 
 <br />
 </p>
 <p>
- That link will provide you with all of the material you need to download to get osTicket up and running. Simply click the link and install the Web Platform Installer
 </p>
 <img src="https://i.imgur.com/AxHCfQ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
