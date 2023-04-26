@@ -24,15 +24,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 Welcome to my first tutorial!
 
-First we will have to create a VM (Virtual machine) using the Microsoft Azure portal. We will be using a VM which is a remote computer in the Cloud. We are using a VM in order to protect our physical machine just in case something goes wrong. Then will create a resource group and title it "osTicket". Afterwards creating a VM with 2-4 CPUs. In this example we will be using Standard D4s v3 (4 vcpus, 16 GiB memory).
+To begin we will have to create a VM (Virtual machine) using the Microsoft Azure portal. We will be using a VM which is a remote computer in the Cloud. We are using a VM in order to protect our physical machine just in case something goes wrong. Now we will create a resource group and title it "osTicket". Afterwards creating a VM with 2-4 CPUs. In this example we will be using Standard D4s v3 (4 vcpus, 16 GiB memory).
 Next simply connect to your newly created VM (Virtual Machine) using RDP (Remote Desktop Protocol) using the public IPv4 address. If you are a Mac user you will have to download Microsoft RDP from the App Store.
-
 <p>
 <img src="https://i.imgur.com/fzpK4mR.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- 
-<p>
+ <p>
 <img src="https://i.imgur.com/qtEnuWu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
