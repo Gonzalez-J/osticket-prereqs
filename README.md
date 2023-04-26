@@ -38,7 +38,7 @@ Next simply connect to your newly created VM (Virtual Machine) using RDP (Remote
 
 Now we need to enable IIS (Internet Information Services) in Windows with CGI, Start off by Right clicking start menu and type CONTROL for control panel. Click Programs, Turn Windows features ON/OFF then find IIS, turn it on then expand it, expand World wide web services,  Application Developer then check CGI. 
 <p>
-<img src="https://s.imgur.com/desktop-assets/desktop-assets/icon-imageUrl-copied.31b62975a126c3352bc757239bb298f9.svg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1Udxeen.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now that you are connected to your VM you will have to enable IIS. Simply access the control panel then select uninstall a program. Off to the left select "Turn windows features on/off". A list will appear then you will enable Internet Information Services.
