@@ -35,13 +35,6 @@ Next simply connect to your newly created VM (Virtual Machine) using RDP (Remote
 <img src="https://i.imgur.com/fzpK4mR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-
 <h2>Installation Steps</h2>
 
 Enable IIS (Internet Information Services) in Windows with CGI
